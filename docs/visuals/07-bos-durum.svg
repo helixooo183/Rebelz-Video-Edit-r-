@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="1688" viewBox="0 0 390 844">
+    <rect x="0" y="0" width="390" height="844" rx="0" fill="#F6F5F9" />
+    <g>
+      <g>
+    <text x="26" y="40" font-family="Inter" font-size="13" font-weight="600" fill="#121018" text-anchor="start" letter-spacing="0" opacity="1">9:41</text>
+    <g fill="#121018" opacity="0.9">
+      <rect x="286" y="35" width="3" height="4" rx="1"/>
+      <rect x="291" y="32.5" width="3" height="6.5" rx="1"/>
+      <rect x="296" y="30" width="3" height="9" rx="1"/>
+      <rect x="301" y="27.5" width="3" height="11.5" rx="1"/>
+    </g>
+    <g stroke="#121018" stroke-width="1.6" fill="none" opacity="0.9" stroke-linecap="round">
+      <path d="M312 39.5a12 12 0 0 1 15 0"/>
+      <path d="M315.5 42.4a7 7 0 0 1 8 0"/>
+      <circle cx="319.5" cy="45" r="1.1" fill="#121018" stroke="none"/>
+    </g>
+    <g opacity="0.9">
+      <rect x="336" y="31" width="22" height="11" rx="3.2" fill="none" stroke="#121018" stroke-width="1.2"/>
+      <rect x="338.5" y="33.5" width="15" height="6" rx="1.6" fill="#121018"/>
+      <rect x="359.5" y="34.5" width="2" height="4" rx="1" fill="#121018"/>
+    </g>
+    <rect x="128" y="831" width="134" height="5" rx="2.5" fill="#121018" opacity="0.24"/>
+  </g>
+      <text x="20" y="106" font-family="Inter" font-size="28" font-weight="600" fill="#121018" text-anchor="start" letter-spacing="0" opacity="1">Projeler</text>
+      <g transform="translate(20 116) scale(0.5833333333333334)" fill="none" stroke="#645E73" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="1"><rect x="5" y="10.5" width="14" height="9.5" rx="2.6"/><path d="M8.5 10.5V8a3.5 3.5 0 0 1 7 0v2.5"/></g>
+      <text x="40" y="127" font-family="Inter" font-size="12" font-weight="400" fill="#645E73" text-anchor="start" letter-spacing="0" opacity="1">Klipleriniz bu cihazda kalır.</text>
+
+      <g>
+        <rect x="167" y="322" width="56" height="56" rx="28" fill="#EFEAFF" stroke="#D8CDFF"/>
+        <g transform="translate(182 337) scale(1.0833333333333333)" fill="none" stroke="#6C48F5" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="1"><rect x="3.5" y="5" width="17" height="14" rx="3"/><path d="M8 5v14M16 5v14M3.5 9.5H8M3.5 14.5H8M16 9.5h4.5M16 14.5h4.5"/></g>
+      </g>
+
+      <text x="195" y="420" font-family="Inter" font-size="20" font-weight="600" fill="#121018" text-anchor="middle" letter-spacing="0" opacity="1">Henüz proje yok</text>
+      <text x="195" y="448" font-family="Inter" font-size="14" font-weight="400" fill="#514B60" text-anchor="middle" letter-spacing="0" opacity="1">İlk videonuz için galerinizden</text>
+      <text x="195" y="468" font-family="Inter" font-size="14" font-weight="400" fill="#514B60" text-anchor="middle" letter-spacing="0" opacity="1">birkaç klip seçin.</text>
+      <text x="195" y="492" font-family="Inter" font-size="12" font-weight="400" fill="#645E73" text-anchor="middle" letter-spacing="0" opacity="1">En fazla 10 klip · 3 dakika</text>
+
+      <g>
+    <rect x="85" y="520" width="220" height="52" rx="16" fill="#5B34E8" />
+    <g transform="translate(144.55 537) scale(0.75)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1"><rect x="3.5" y="4.5" width="17" height="15" rx="3"/><circle cx="9" cy="10" r="1.8"/><path d="M4 17.5 9.5 13l4 3.5 2.5-2 4 4"/><path d="M18 3v4M16 5h4"/></g>
+    <text x="171.55" y="551.5" font-family="Inter" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="0" opacity="1">Video seç</text>
+  </g>
+
+      <g>
+        <rect x="0" y="770" width="390" height="74" rx="0" fill="#FFFFFF" />
+        <path d="M0 770 L390 770" stroke="undefined" stroke-width="1" stroke-linecap="round"/>
+        <rect x="38" y="778" width="24" height="3" rx="2" fill="#5B34E8" />
+        <g transform="translate(44 786) scale(0.9166666666666666)" fill="none" stroke="#6C48F5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="1"><rect x="3.5" y="5" width="17" height="14" rx="3"/><path d="M8 5v14M16 5v14M3.5 9.5H8M3.5 14.5H8M16 9.5h4.5M16 14.5h4.5"/></g>
+        <text x="56" y="827" font-family="Inter" font-size="11" font-weight="600" fill="#6C48F5" text-anchor="middle" letter-spacing="0" opacity="1">Projeler</text>
+        <g transform="translate(109 786) scale(0.9166666666666666)" fill="none" stroke="#6B6578" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="1"><path d="M4 7h10M18 7h2M4 17h2M10 17h10"/><circle cx="16" cy="7" r="2.4"/><circle cx="8" cy="17" r="2.4"/></g>
+        <text x="121" y="827" font-family="Inter" font-size="11" font-weight="400" fill="#6B6578" text-anchor="middle" letter-spacing="0" opacity="1">Ayarlar</text>
+        <rect x="216" y="786" width="154" height="48" rx="24" fill="#5B34E8" />
+        <g transform="translate(232 800) scale(0.75)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="1"><path d="M12 5v14M5 12h14"/></g>
+        <text x="254" y="816" font-family="Inter" font-size="13.5" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="0" opacity="1">Yeni video</text>
+      </g>
+    </g>
+  </svg>
